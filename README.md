@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Document-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Document-Workspace?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Document-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Document-Workspace?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Document-Workspace/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaborative-Document-Workspace?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Document-Workspace/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Collaborative-Document-Workspace?color=brightgreen" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Document-Workspace/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Collaborative-Document-Workspace" alt="License" /></a>
@@ -67,67 +67,67 @@ The global team collaboration and collaborative document workspace software mark
 
 Curated open-source collaborative document workspaces, wikis, and self-hosted knowledge bases sorted by GitHub stargazers count:
 
-1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+1. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    Open-source Notion alternative (AGPL-3.0) built with Flutter and Rust. Features a kanban board, rich-text editor, database views, and full self-hosting capability. Prioritizes data privacy, security, and native cross-platform performance.
 
-2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
+2. **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)  
    Open-source knowledge base (MIT/AGPL dual license) positioning itself as the next-generation Notion + Miro alternative. Unifies docs, whiteboards, and multimodal databases in one workspace with a local-first architecture and real-time collaboration.
 
-3. **[Memos](https://github.com/usememos/memos)** [![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers)  
+3. **[Memos](https://github.com/usememos/memos)** [![GitHub_Stars](https://img.shields.io/github/stars/usememos/memos?style=social&color=white)](https://github.com/usememos/memos/stargazers)  
    Privacy-first, lightweight collaborative note-taking service (MIT) with a modern UI. Allows teams and individuals to capture thoughts, collaborate on knowledge fragments, and self-host easily with Docker and SQLite.
 
-4. **[Joplin](https://github.com/laurent22/joplin)** [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
+4. **[Joplin](https://github.com/laurent22/joplin)** [![GitHub_Stars](https://img.shields.io/github/stars/laurent22/joplin?style=social&color=white)](https://github.com/laurent22/joplin/stargazers)  
    Secure, open-source note-taking and collaborative document application (AGPL-3.0) with end-to-end encryption (E2EE), Markdown editing, Joplin Server collaboration, and cross-device sync.
 
-5. **[SiYuan](https://github.com/siyuan-note/siyuan)** [![GitHub stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)  
+5. **[SiYuan](https://github.com/siyuan-note/siyuan)** [![GitHub_Stars](https://img.shields.io/github/stars/siyuan-note/siyuan?style=social&color=white)](https://github.com/siyuan-note/siyuan/stargazers)  
    Privacy-first, local-first personal knowledge management system and workspace (AGPL-3.0) supporting fine-grained block-level refactoring, Markdown, document outline tree, and bi-directional linking.
 
-6. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+6. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
    Enterprise open-source collaboration platform (MIT) featuring real-time messaging, document sharing, team discussions, Omnichannel communication, and integration with self-hosted collaborative suites.
 
-7. **[Logseq](https://github.com/logseq/logseq)** [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
+7. **[Logseq](https://github.com/logseq/logseq)** [![GitHub_Stars](https://img.shields.io/github/stars/logseq/logseq?style=social&color=white)](https://github.com/logseq/logseq/stargazers)  
    Local-first, privacy-focused open-source outliner and knowledge base (AGPL-3.0) with bi-directional linking, PDF annotation, flashcards, task management, and graph visualization.
 
-8. **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
+8. **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)  
    Blazing fast, collaborative team knowledge base and wiki (BSL 1.1) built with React and Node.js. Features seamless real-time co-editing, Markdown support, granular permissions, and integrations with Slack, Google, and GitLab.
 
-9. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+9. **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
    Open-source platform for secure team collaboration and technical workflow management (Apache-2.0 / AGPLv3). Includes channels, collaborative Playbooks, interactive Boards, and document sharing.
 
-10. **[Trilium Notes](https://github.com/zadam/trilium)** [![GitHub stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)  
+10. **[Trilium Notes](https://github.com/zadam/trilium)** [![GitHub_Stars](https://img.shields.io/github/stars/zadam/trilium?style=social&color=white)](https://github.com/zadam/trilium/stargazers)  
     Hierarchical note-taking application (AGPL-3.0) designed for building large, structured personal and team knowledge bases with rich WYSIWYG editing, tree navigation, and REST API automation.
 
-11. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
+11. **[Wiki.js](https://github.com/requarks/wiki)** [![GitHub_Stars](https://img.shields.io/github/stars/requarks/wiki?style=social&color=white)](https://github.com/requarks/wiki/stargazers)  
     Extensible, modern wiki application (AGPL-3.0) running on Node.js. Provides visual, Markdown, and code editors, enterprise authentication (LDAP, SAML, OAuth), granular permissions, and multi-database compatibility.
 
-12. **[Huly Platform](https://github.com/hcengineering/platform)** [![GitHub stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
+12. **[Huly Platform](https://github.com/hcengineering/platform)** [![GitHub_Stars](https://img.shields.io/github/stars/hcengineering/platform?style=social&color=white)](https://github.com/hcengineering/platform/stargazers)  
     All-in-one open-source project management and collaboration workspace (EPL-2.0). Combines collaborative documents, issue trackers, virtual workspaces, and communication as a self-hosted alternative to Linear, Notion, and Slack.
 
-13. **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+13. **[Docmost](https://github.com/docmost/docmost)** [![GitHub_Stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
     Modern open-source collaborative wiki and documentation platform (AGPL-3.0) built with TypeScript, React, and PostgreSQL. Features real-time co-authoring, embedded diagrams (Draw.io, Excalidraw, Mermaid), granular permissions, and spaces.
 
-14. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
+14. **[BookStack](https://github.com/BookStackApp/BookStack)** [![GitHub_Stars](https://img.shields.io/github/stars/BookStackApp/BookStack?style=social&color=white)](https://github.com/BookStackApp/BookStack/stargazers)  
     Simple, self-hosted documentation platform (MIT) organizing knowledge into intuitive Books, Chapters, and Pages. Features a streamlined WYSIWYG editor, Markdown support, integrated diagrams, and multi-language capabilities.
 
-15. **[Etherpad Lite](https://github.com/ether/etherpad-lite)** [![GitHub stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
+15. **[Etherpad Lite](https://github.com/ether/etherpad-lite)** [![GitHub_Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)  
     Highly customizable real-time collaborative document editor (Apache-2.0). Supports real-time text co-authoring, authorship color highlights, chat, and an extensive ecosystem of community plugins.
 
-16. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+16. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
     End-to-end encrypted collaboration suite (AGPL-3.0) ensuring client-side zero-knowledge security. Provides collaborative rich-text docs, spreadsheets, presentations, code pads, kanban boards, and whiteboards.
 
-17. **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)  
+17. **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub_Stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)  
     Open-source real-time collaborative Markdown editor (AGPL-3.0; formerly CodiMD). Features live side-by-side preview, slide deck mode, MathJax formulas, and diagram rendering.
 
-18. **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
+18. **[ONLYOFFICE Document Server](https://github.com/ONLYOFFICE/DocumentServer)** [![GitHub_Stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer?style=social&color=white)](https://github.com/ONLYOFFICE/DocumentServer/stargazers)  
     Self-hosted online office suite (AGPL-3.0) compatible with Microsoft Office formats (.docx, .xlsx, .pptx). Supports real-time collaborative editing with Fast and Strict co-editing modes, track changes, and comments.
 
-19. **[Standard Notes](https://github.com/standardnotes/app)** [![GitHub stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
+19. **[Standard Notes](https://github.com/standardnotes/app)** [![GitHub_Stars](https://img.shields.io/github/stars/standardnotes/app?style=social&color=white)](https://github.com/standardnotes/app/stargazers)  
     End-to-end encrypted, cross-platform notes application (AGPL-3.0) built for long-term data preservation, rich Markdown, spreadsheets, and collaborative team workspaces.
 
-20. **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)  
+20. **[SilverBullet](https://github.com/silverbulletmd/silverbullet)** [![GitHub_Stars](https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social&color=white)](https://github.com/silverbulletmd/silverbullet/stargazers)  
     Extensible open-source personal and team knowledge management platform (MIT) that runs as an interactive, queryable Markdown notebook with client-side synchronization and pluggable actions.
 
-21. **[Nextcloud Office (Richdocuments)](https://github.com/nextcloud/richdocuments)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers)  
+21. **[Nextcloud Office (Richdocuments)](https://github.com/nextcloud/richdocuments)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers)  
     Nextcloud integration app for Collabora Online (AGPL-3.0), providing full-featured LibreOffice-based collaborative document, spreadsheet, and presentation co-editing directly in self-hosted Nextcloud clouds.
 
 ---
@@ -136,8 +136,8 @@ Curated open-source collaborative document workspaces, wikis, and self-hosted kn
 
 For software engineers and architects building custom real-time co-authoring tools:
 
-- **[Yjs](https://github.com/yjs/yjs)** [![GitHub stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers) — High-performance Conflict-free Replicated Data Type (CRDT) implementation for real-time collaborative editing in browsers and Node.js.
-- **[Automerge](https://github.com/automerge/automerge)** [![GitHub stars](https://img.shields.io/github/stars/automerge/automerge?style=social&color=white)](https://github.com/automerge/automerge/stargazers) — Library of data structures for building local-first and collaborative applications with automatic conflict resolution.
+- **[Yjs](https://github.com/yjs/yjs)** [![GitHub_Stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers) — High-performance Conflict-free Replicated Data Type (CRDT) implementation for real-time collaborative editing in browsers and Node.js.
+- **[Automerge](https://github.com/automerge/automerge)** [![GitHub_Stars](https://img.shields.io/github/stars/automerge/automerge?style=social&color=white)](https://github.com/automerge/automerge/stargazers) — Library of data structures for building local-first and collaborative applications with automatic conflict resolution.
 
 ---
 
@@ -148,7 +148,7 @@ Contributions are warmly welcome! Help make this ecosystem resource even better:
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a feature branch** (`git checkout -b feature/new-workspace`).
 3. 📝 **Add or update an entry** in `README.md` following the established table or list format.
-4. 💡 **Include clear facts**: platform name, official URL, pricing tier or open-source license, star count badge, and a concise 1–2 sentence description.
+4. 💡 **Include clear facts**: platform name, official URL, pricing tier or open-source license, Stars_Count badge, and a concise 1–2 sentence description.
 5. 🚀 **Submit a Pull Request** with a brief rationale.
 
 ---
