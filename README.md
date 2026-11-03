@@ -130,7 +130,7 @@ Curated open-source collaborative document workspaces, wikis, and self-hosted kn
 21. **[Nextcloud Office (Richdocuments)](https://github.com/nextcloud/richdocuments)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/richdocuments?style=social&color=white)](https://github.com/nextcloud/richdocuments/stargazers)  
     Nextcloud integration app for Collabora Online (AGPL-3.0), providing full-featured LibreOffice-based collaborative document, spreadsheet, and presentation co-editing directly in self-hosted Nextcloud clouds.
 22. **[Breatic](https://github.com/orime-org/breatic)** [![GitHub_Stars](https://img.shields.io/github/stars/orime-org/breatic?style=social&color=white)](https://github.com/orime-org/breatic/stargazers)  
-    Open-source collaborative creation workspace combining shared documents, AI canvases, and project-aware agents with Yjs/Hocuspocus real-time editing. Uses the Breatic Source-Available License v1.0; internal deployment requires configured storage and model providers.
+    Source-available collaborative creation workspace combining shared documents, AI canvases, and project-aware agents with Yjs/Hocuspocus real-time editing. Uses the Elastic License 2.0 (Elastic-2.0); internal deployment requires configured storage and model providers.
 
 ---
 
